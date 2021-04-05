@@ -1,6 +1,6 @@
 {
   "name": "typingdna-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypingDNA JS Recorder",
   "main": "dist/typingdna.js",
   "scripts": {
